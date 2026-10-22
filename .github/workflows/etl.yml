@@ -1,0 +1,43 @@
+# Runs the ETL pipeline on GitHub's servers.
+# Triggers: every push to main, every day at 06:00 UTC, or manually.
+name: ETL pipeline
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest
+
+      - name: Run pipeline
+        run: python -m pipelines.run_pipeline
+
+      - name: Save outputs (database, logs, rejected rows)
+        if: always()   # also upload logs when the pipeline failed
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-output
+          path: |
+            data/sales.db
+            data/rejected/
+            logs/
+          if-no-files-found: ignore

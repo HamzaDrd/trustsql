@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+
+# Pipeline OUTPUTS: always rebuilt from data/raw, so not stored in Git
+data/sales.db
+data/*.tmp.db
+data/rejected/
+logs/
+
+# Mac
+.DS_Store

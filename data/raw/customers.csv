@@ -1,0 +1,209 @@
+customer_id,name,email,country,city,signup_date
+1,Brian Yang,johnsonjoshua@example.org,BE,New Roberttown,2023/11/25
+2,Meredith Barnes,williamjohnson@example.org,France,Lawrencetown,24/07/2024
+3,Phillip Garcia,helenpeterson@example.org,Germany,Davisstad,2024-05-29
+4,Edward Fuller,blairamanda@example.com,belgium,Barbaraland,2023/11/07
+5,Jamie Chavez,kendragalloway@example.org,Netherlands,Franciscostad,06/01/2024
+6,Nicholas Martin,jacqueline19@example.net,BE,Nelsonside,2024/01/10
+7,Jennifer Jones,megan03@example.org,BE,Jasonfort,14/03/2024
+8,Kimberly Burgess,ithomas@example.org,BE,Hurstfurt,2024-03-02
+9,Brittany Moore,williamdavis@example.org,Germany,Carlsonfurt,2024-03-09
+10,Ashley Dyer,jrice@example.org,France,Kaylamouth,2023-12-01
+11,Deborah Mason,amoore@example.net,BE,New Rita,2024-09-03
+12,Phillip Ryan,  MEAGAN89@EXAMPLE.ORG ,France,New Mariotown,01/12/2023
+13,Keith Miller,  NATASHA43@EXAMPLE.ORG ,Netherlands,Cabreraside,27/07/2024
+14,Shane Henderson,,Germany,New Karina,2024/06/29
+15,David Brown,raymond57@example.net,France,New Angelashire,2024-01-10
+16,Shannon Jones,  ZIMMERMANBRIAN@EXAMPLE.ORG ,Belgium,West Elizabeth,08/01/2024
+17,Richard Aguirre,jenniferkhan@example.net,belgium,North Collin,2024-03-27
+18,Victoria Garcia,ujenkins@example.org,Belgium,Chandlerville,20/01/2024
+19,David Leblanc,amandataylor@example.org,Netherlands,Mortonside,26/11/2023
+20,John Lewis,novaksara@example.org,Germany,Barreraburgh,08/03/2024
+21,Michael Cross,ybaker@example.com,Netherlands,Mooreport,2024-01-09
+22,Anthony Woods,rileyamy@example.net,BE,North Susan,2023/11/20
+23,Todd Hudson,caseyjones@example.org,Netherlands,New Christophershire,2024-05-15
+24,Carlos Brewer,  SARAH35@EXAMPLE.ORG ,Netherlands,Stewartland,25/10/2023
+25,Gregory Jones,jonesjason@example.com,belgium,West Justin,2024/03/29
+26,Elizabeth Alvarado,,France,West Darrell,2023/11/30
+27,Michael Farrell,  JOSEPHJACOBS@EXAMPLE.NET ,belgium,Kington,2023/11/24
+28,Carlos Whitney,ccalderon@example.org,Belgium,Lake Scott,05/07/2024
+29,Kimberly Davenport,rodriguezsierra@example.net,BE,South David,11/02/2024
+30,Heather Castro,nolanjason@example.org,Belgium,Dicksonberg,2024/09/23
+31,Allison Doyle,michellecherry@example.org,Netherlands,Kimberlychester,2024/08/09
+32,Andrew Ruiz,josephcobb@example.org,Netherlands,Port Samantha,26/02/2024
+33,Sean Rasmussen,jeffreykeller@example.com,France,Michaelhaven,15/03/2024
+34,Victoria Johnson,sheila14@example.org,Germany,Reedmouth,2024/03/29
+35,Jeffrey Meyer,cruzbarbara@example.com,France,West Ryan,2024-10-02
+36,Jason Powell,  CINDY14@EXAMPLE.NET ,Belgium,Angelaborough,2024/03/23
+37,Jennifer Bass,lbyrd@example.net,Belgium,Justinchester,2024/08/03
+38,Steven Flynn,steven73@example.net,Netherlands,Lake Christopher,2024/04/27
+39,Brittany Williams,clarence34@example.org,Belgium,Carrland,2024-04-05
+40,Matthew Smith,jennifercruz@example.com,Netherlands,Port Ronaldburgh,2024-08-10
+41,Robert Contreras,pwilliams@example.org,Germany,Stephaniemouth,2024/06/01
+42,Natasha Wells,jrivas@example.com,Netherlands,Karenview,2024/07/27
+43,Dustin Nelson,rsims@example.com,France,Patricialand,2023-12-11
+44,Jason Daniels,patrickhernandez@example.org,BE,Brownchester,12/03/2024
+45,Tommy Evans,  GATESKATHY@EXAMPLE.COM ,Belgium,Castanedachester,2024/05/05
+46,George Shelton,,Belgium,Ramseymouth,2024-09-21
+47,Marvin Taylor,meadowsbrittany@example.net,France,Whiteview,2024/03/08
+48,Trevor Fisher,  SHAWNROGERS@EXAMPLE.COM ,belgium,South Andrewside,2023/11/10
+49,Christina Smith,  JEFFREY10@EXAMPLE.ORG ,Germany,East David,2024/06/22
+50,Lawrence Adkins,stevenscott@example.com,belgium,Port Loriport,2023-11-30
+51,Miguel Jones,hickmanbarbara@example.com,France,North Heidi,2024/02/09
+52,Jeffrey Wood,  HOGANASHLEE@EXAMPLE.ORG ,Germany,Alexanderchester,2024/08/17
+53,Jessica Gross,  HAMILTONMICHAEL@EXAMPLE.COM ,France,Christinaside,2024/07/30
+54,Samuel Rivas,ugraham@example.net,Germany,West Nicolebury,2024/07/21
+55,Daniel Salinas,frogers@example.com,Germany,Joshuaview,2024-05-11
+56,Cynthia Alvarez,christophercortez@example.com,BE,Westtown,2023/11/24
+57,Kara Schmidt,richardsanchez@example.net,Germany,Barajasside,2024/02/19
+58,Corey Wilson,qnelson@example.org,belgium,East Javier,2024/04/15
+59,Eric Erickson,  TINA34@EXAMPLE.ORG ,belgium,West Brandon,2023/11/10
+60,Laura Harrison,heidi27@example.org,BE,Petersonton,2024/01/22
+61,Kenneth Parks Jr.,ewilson@example.com,BE,Christopherbury,04/12/2023
+62,Joseph Hayes,yobrien@example.net,France,Evansshire,2024-10-17
+63,Phillip Garrett,ashley09@example.net,France,Donnaburgh,2024/01/17
+64,Doris Hall,moorericky@example.net,Belgium,Jacquelinemouth,2023/11/16
+65,Regina Gonzalez,sandrafrench@example.net,Germany,New Jeffreyberg,17/09/2024
+66,Samantha Morse,charlesmartin@example.com,Germany,Martinezport,2024/07/03
+67,Stacy Navarro,vincent77@example.org,Belgium,Anthonybury,2024/10/07
+68,Pamela Thompson,keyemily@example.com,Germany,Moonburgh,2024/10/19
+69,Jason Morris,fwalters@example.org,Belgium,Port Eugenechester,01/07/2024
+70,Ernest Morris,elaine68@example.org,Belgium,Hancocktown,18/06/2024
+71,Peter Garrett,mgutierrez@example.net,France,East Josephberg,24/09/2024
+72,Mark Lloyd,fgilmore@example.org,Netherlands,West Andrea,10/05/2024
+73,Bruce Collier,walkermaureen@example.org,Netherlands,Cantuport,24/04/2024
+74,Charles Lee,robert77@example.org,Germany,Port Chad,30/07/2024
+75,Aaron Barber,ymorgan@example.net,Netherlands,Grimesmouth,2024-05-05
+76,Sheila Pollard,martin86@example.com,Belgium,New Patrick,2024/08/29
+77,Roberta Hughes,vwilliams@example.com,belgium,South Tammie,2023-12-07
+78,Alexis Thomas,molly71@example.net,Germany,North Terrance,09/10/2024
+79,Shannon James,cindy61@example.com,belgium,Courtneyfort,2024-09-04
+80,Yolanda Francis,williamsonjimmy@example.net,France,Goodville,2024-03-31
+81,James Thomas,  REBECCA05@EXAMPLE.ORG ,France,Knightburgh,23/12/2023
+82,Thomas Thomas,lynchpatrick@example.net,Germany,Littlemouth,2024-01-23
+83,Brooke Alexander,nolansteven@example.com,Netherlands,Vanessaport,2024/06/11
+84,James Webb,dvaughn@example.com,Belgium,South Ashley,2024-05-18
+85,Melissa Garner,andrew64@example.org,Netherlands,New Julieport,31/07/2024
+86,David Campos,,Belgium,Lake Colton,07/06/2024
+87,Carlos Browning,parkerscott@example.net,Germany,Julieburgh,2024/01/03
+88,Terry Coffey,alyssa42@example.com,Germany,Juliemouth,2024/08/10
+89,Misty Whitney,jmccarty@example.org,France,Christopherfurt,27/10/2023
+90,James Little,gibsonemily@example.net,Germany,Danielbury,11/04/2024
+91,Susan Turner,  ROSE31@EXAMPLE.NET ,France,Wilsonton,2024-10-01
+92,Brandy Chavez,  WENDY11@EXAMPLE.ORG ,Netherlands,Matthewsberg,2024-09-09
+93,Jacob Ramos,basschristina@example.com,Belgium,Port Michael,2024-10-14
+94,Walter Rush,  AMY50@EXAMPLE.COM ,belgium,Davisborough,12/06/2024
+95,Christine Gallegos,williamsmatthew@example.org,belgium,New Jason,2024-09-03
+96,Brianna Anderson,kim90@example.com,Netherlands,Laurenville,2024-06-19
+97,Alexis Baker,andersonmichael@example.org,BE,Lake Robert,02/12/2023
+98,Jodi Walker,alvarezkimberly@example.net,France,Lake Kristahaven,2024-02-09
+99,Brian Joseph,browntimothy@example.com,belgium,Jonesland,16/02/2024
+100,Michelle James,  CAMERONHILL@EXAMPLE.NET ,France,Shawnchester,2023-11-27
+101,Cindy Hayes,  FARRELLDEBRA@EXAMPLE.NET ,Netherlands,South Matthew,2024/04/04
+102,David Mckay,,belgium,Jonesland,2023-11-25
+103,Laurie Hoffman,  GARNERNATHAN@EXAMPLE.ORG ,Netherlands,Elizabethchester,2024-02-28
+104,Lindsay Bell,uparrish@example.org,France,East Diane,2024-01-11
+105,Laura Aguirre,bellangela@example.org,Netherlands,New Sarahview,2023/11/01
+106,Sergio Knight,,Netherlands,Jonestown,2023-11-24
+107,Nathan Frank,nicholaschavez@example.org,belgium,North Ericton,2024/06/23
+108,Donald Fischer,,Belgium,West Russellport,25/06/2024
+109,William Brown,,Germany,West Sierra,2024-07-28
+110,Casey James,keith10@example.com,belgium,New Angelica,21/06/2024
+111,Blake Edwards,charles06@example.org,Netherlands,Berrychester,04/02/2024
+112,Lisa Collier,,Germany,Christopherville,18/01/2024
+113,Connie Maxwell,zwarren@example.com,Netherlands,New Cynthiahaven,2024-04-25
+114,Craig Morrison,michael23@example.org,Germany,East Stephaniefort,08/04/2024
+115,Lori Lin,kmaldonado@example.net,belgium,Edwardland,2024-04-10
+116,Emily Hayes,laura90@example.com,Germany,West Marieland,2024-06-13
+117,Tiffany Stevenson,gilbertwilliam@example.com,France,South Reginashire,2024-06-15
+118,Robert Monroe,cassidy82@example.org,France,New Debbieton,2024-01-20
+119,Helen Hardin,hritter@example.net,Belgium,Ortizmouth,2024-06-25
+120,Justin Hughes,mccormickdeborah@example.org,Belgium,Jenniferberg,2024/02/20
+121,Jenna Larson,  SABRINACOLLINS@EXAMPLE.NET ,BE,West Angelicamouth,13/08/2024
+122,Eric Bean,lucasrodney@example.com,Netherlands,Staceyfort,2023-12-31
+123,Kimberly Rodgers,ericphillips@example.org,Germany,Lake Matthewberg,26/05/2024
+124,Carol Kim,  FRANCISGUERRA@EXAMPLE.NET ,Netherlands,Diazbury,09/10/2024
+125,Vincent Mueller,karen73@example.net,Germany,West Erika,2024/05/17
+126,Jennifer Martin,smurray@example.com,Belgium,Port Cassandra,2024/09/04
+127,Michelle Black,davidsonmorgan@example.net,BE,West Christopherburgh,29/01/2024
+128,Stacey Arias,mariahdavis@example.org,BE,Brownhaven,2024/03/06
+129,Timothy Combs,xvang@example.org,BE,Laceyberg,04/11/2023
+130,Luis Bullock,ihorton@example.net,belgium,West Jasonberg,09/05/2024
+131,Anthony Barnes,,Netherlands,Brownfort,2024-05-26
+132,Jeffrey Mendez,chenbailey@example.net,Belgium,New Robert,2024/06/20
+133,Rachel Romero,  MILLSMICHAEL@EXAMPLE.NET ,Germany,South Morganton,2024/06/10
+134,Nicholas Fuller,,Netherlands,Dennisstad,2024-05-08
+135,Clarence Taylor,mariacohen@example.net,Netherlands,Johnsonborough,2023/11/06
+136,Virginia Daniels,  NINASTEWART@EXAMPLE.COM ,BE,Benjaminborough,2024-02-03
+137,Jessica Ross,glennmartin@example.org,Germany,Klinefurt,22/02/2024
+138,Bradley Coleman,tylerjimenez@example.net,Netherlands,Morrisonburgh,2024-05-08
+139,Mitchell Jackson,curtis54@example.com,France,Bellton,2024-07-13
+140,Theresa Jones,christina64@example.net,France,Coxburgh,2024/10/03
+141,Austin Osborne,,Belgium,Michaelshire,02/11/2023
+142,Billy Taylor,erikarush@example.com,France,Raymondview,21/01/2024
+143,Justin Green,johnsonjacob@example.net,belgium,Janeborough,19/10/2024
+144,Benjamin Thompson,heather73@example.org,Germany,Osbornmouth,21/06/2024
+145,Michelle Ho,piercekelly@example.com,Netherlands,Port Michael,2024-01-11
+146,Julian Wood,laurayoung@example.com,France,New Nicole,14/11/2023
+147,Patricia Morrow,ukey@example.com,Germany,East Teresaland,2024/04/03
+148,Betty Shaw,david89@example.org,belgium,Port Davidberg,2024-02-10
+149,Kelly Campbell,marcusfletcher@example.com,France,West Jamesside,2024/01/30
+150,Todd Moore,christina18@example.net,Belgium,Meganshire,2023-11-06
+151,Daniel Armstrong,millerstacy@example.net,Netherlands,South Pamelaside,2024-02-04
+152,Anthony Gonzales,  TIMOTHY64@EXAMPLE.COM ,belgium,Marshallmouth,2024-05-30
+153,Jacob Hoffman,michelle55@example.com,Netherlands,Johnville,2024-01-27
+154,Jennifer Estes,donaldwilliams@example.com,Germany,Port Mark,2024-05-19
+155,Shawn Jimenez,james27@example.net,France,South Williambury,2024-01-08
+156,Martha Ruiz,  BRANDON47@EXAMPLE.NET ,Belgium,Port Danielberg,2024-09-08
+157,Justin Cox,kathryn50@example.com,BE,Charleshaven,03/04/2024
+158,Brent Brooks,marcia99@example.org,belgium,Angelastad,23/07/2024
+159,Chad Cook,,Netherlands,Stoneberg,2024-05-30
+160,Luis Kirby,  MARKAUSTIN@EXAMPLE.ORG ,Germany,Williamhaven,03/05/2024
+161,Veronica Silva,thomas05@example.com,Germany,New Thomasshire,19/05/2024
+162,Patricia James,silvageorge@example.net,Germany,North Ashley,2024/07/03
+163,Damon Shaw,andrewedwards@example.org,Belgium,Salaston,05/07/2024
+164,Emily Thompson,  ANNBOLTON@EXAMPLE.COM ,France,Amyview,2024-05-31
+165,William Evans,  SUSANRAMIREZ@EXAMPLE.COM ,France,Janetfort,14/02/2024
+166,Kimberly Huang,  ANN44@EXAMPLE.ORG ,France,Cardenasberg,2024-02-05
+167,Nicole Lewis,stephanie15@example.com,Netherlands,Sarahview,2023/12/11
+168,David Garcia,johnsantiago@example.net,Belgium,Jenniferville,26/06/2024
+169,Timothy Johns,adampierce@example.org,Belgium,Santosport,16/02/2024
+170,Parker Jefferson,  VELEZCHRISTOPHER@EXAMPLE.NET ,France,East Robertburgh,2024-09-26
+171,Paul Brennan,osbornrandy@example.com,Belgium,Nancytown,2024-02-07
+172,Kimberly Snyder DVM,hebertmatthew@example.com,Netherlands,Nelsonville,2024-02-19
+173,George Phillips,twong@example.org,Netherlands,East Cheryl,2024/06/11
+174,Michael Lopez,gwilcox@example.com,belgium,South Marcus,2024-01-20
+175,Nathan Smith,patrick74@example.com,BE,Heatherton,2024/06/21
+176,Stephanie Padilla,zparker@example.net,Netherlands,Hannahport,04/03/2024
+177,William Brooks,jeffreyanderson@example.org,Belgium,Toddborough,26/07/2024
+178,Justin Brown,,belgium,New Amanda,2023/12/21
+179,Ann Dixon,nwilson@example.net,Belgium,South Davidchester,2024-04-05
+180,Jennifer Velasquez,hansenemily@example.com,Germany,New Charles,2024/03/24
+181,Mrs. Donna White,weaverbrian@example.org,Netherlands,Port Darlene,2024-07-14
+182,Susan Bennett,ybrooks@example.com,BE,Lake Michelle,2023/12/04
+183,Nicole Good,urice@example.org,belgium,Nunezside,2024-03-24
+184,Donald Pineda,pmorrow@example.com,Germany,North Lisachester,02/06/2024
+185,Kyle Warner,allencarlos@example.net,belgium,East Joyfurt,30/03/2024
+186,Donna Cabrera,karenparsons@example.org,belgium,Barbaramouth,2024-01-16
+187,Antonio Fry,valerieboyd@example.com,Netherlands,Lake Erika,2024/05/11
+188,Joseph Horton,comptonshelly@example.net,BE,Hernandezfurt,2023-12-28
+189,Brianna Ford,oallen@example.com,France,New Robertchester,2024/05/12
+190,Tammy Boone,paulscott@example.com,BE,New Jennyborough,2023-11-09
+191,Chelsea Gill,mnunez@example.org,belgium,South Jason,17/09/2024
+192,Autumn Key,susan03@example.org,France,Rochaborough,2024/03/14
+193,Matthew Parker,andrearowe@example.com,France,Williamfort,2024-04-09
+194,Jason Hart,ugill@example.org,Belgium,Lake Dustin,25/01/2024
+195,Kelly Sanchez,mphillips@example.com,France,Jonathanfort,2024/10/08
+196,Nathan Freeman,  UMURRAY@EXAMPLE.COM ,Belgium,New Arthurland,30/09/2024
+197,Michael Smith,,BE,Brooksfort,2024/06/18
+198,Nathan Nichols,smithandrea@example.org,Netherlands,Andrechester,11/08/2024
+199,Manuel King,danieldavis@example.org,Germany,Josephfurt,2023/11/19
+200,Michael Abbott,pstevens@example.net,Belgium,North Richardfurt,10/05/2024
+170,Parker Jefferson,  VELEZCHRISTOPHER@EXAMPLE.NET ,France,East Robertburgh,2024-09-26
+161,Veronica Silva,thomas05@example.com,Germany,New Thomasshire,19/05/2024
+166,Kimberly Huang,  ANN44@EXAMPLE.ORG ,France,Cardenasberg,2024-02-05
+84,James Webb,dvaughn@example.com,Belgium,South Ashley,2024-05-18
+93,Jacob Ramos,basschristina@example.com,Belgium,Port Michael,2024-10-14
+125,Vincent Mueller,karen73@example.net,Germany,West Erika,2024/05/17
+2,Meredith Barnes,williamjohnson@example.org,France,Lawrencetown,24/07/2024
+60,Laura Harrison,heidi27@example.org,BE,Petersonton,2024/01/22
